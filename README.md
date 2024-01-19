@@ -1,2 +1,1 @@
-# Fokus
-Projeto Feito em com auxílio de cursos na Alura
+link: https://fokus-beta.vercel.app/
